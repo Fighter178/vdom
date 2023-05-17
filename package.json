@@ -1,0 +1,20 @@
+{
+  "name": "@fighter178/vdom",
+  "version": "0.1.0",
+  "description": "A virtual DOM library that works as a drop-in replacement for your real dom.",
+  "main": "index.js",
+  "readme": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["virtual dom", "dom", "html"],
+  "author": "Fighter178",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "readme.md",
+    "changelog.md",
+    "license.txt"
+  ]
+}
