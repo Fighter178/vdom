@@ -8,8 +8,10 @@ Fixed typo in readme. (How'd I even manage to replace a "v" with an "r")?
 Minor Update
 Dataset support (`element.dataset`)
 NOTE: Setting nonexistent attributes does **NOT** work.
-
 # Version 0.1.1 
 Added repo to package.json
 # Version 0.1.2
 Fixed repo in package.json
+# Version 0.2.0 
+Changed file extension from "ts" and  "js" to "mts" and "mjs" respectfully.
+Should be fine as the package.json main field was also changed.

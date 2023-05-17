@@ -1,5 +1,5 @@
 // Example Usage of vDOM
-import { VirtualDOM } from "./index.js";
+import { VirtualDOM } from "./index.mjs";
 const dom = new VirtualDOM();
 const button = dom.createElement("button");
 let count = 3;
