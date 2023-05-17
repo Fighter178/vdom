@@ -1,6 +1,6 @@
 {
   "name": "@fighter178/vdom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A virtual DOM library that works as a drop-in replacement for your real dom.",
   "main": "index.js",
   "readme": "readme.md",
@@ -8,10 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url":"https://github.com/Fighter178/vdomhttps://github.com/Fighter178/vdom",
+    "url": "https://github.com/Fighter178/vdomhttps://github.com/Fighter178/vdom",
     "type": "git"
   },
-  "keywords": ["virtual dom", "dom", "html"],
+  "keywords": [
+    "virtual dom",
+    "dom",
+    "html"
+  ],
   "author": "Fighter178",
   "license": "MIT",
   "files": [
