@@ -79,6 +79,7 @@ Also, some functions have an underscore (_) before them. Don't call them. They a
 These features are work in progress, so don't use them for anything important.
 - `$onTreeChange` - Watch DOM tree changes
 - Event system - Probably works most of the time.
+- `element.dataset` - Doesn't create nonexistent attributes (eg: `<div data-x="x"></div>` would be able to be changed but `<div>Change data-x</div>` would not add the attribute).
 
 ## Notes
 - `querySelector` and `querySelectorAll` **only** search for element(s) by **tag name** If you want to search by attribute use `$getElementsByAttribute` or `$getElementByAttribute`.

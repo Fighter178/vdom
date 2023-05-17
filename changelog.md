@@ -8,3 +8,6 @@ Fixed typo in readme. (How'd I even manage to replace a "v" with an "r")?
 Minor Update
 Dataset support (`element.dataset`)
 NOTE: Setting nonexistent attributes does **NOT** work.
+
+# Version 0.1.1 
+Added repo to package.json
